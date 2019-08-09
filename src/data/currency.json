@@ -1,0 +1,1610 @@
+{
+  "808": {
+     "currency name": "808Coin"
+  },
+  "1ST": {
+     "currency name": "FirstBlood"
+  },
+  "2GIVE": {
+     "currency name": "GiveCoin"
+  },
+  "ABT": {
+     "currency name": "ArcBlock"
+  },
+  "ABY": {
+     "currency name": "ArtByte"
+  },
+  "AC": {
+     "currency name": "AsiaCoin"
+  },
+  "ACT": {
+     "currency name": "Achain"
+  },
+  "ADA": {
+     "currency name": "Cardano"
+  },
+  "ADT": {
+     "currency name": "adToken"
+  },
+  "ADX": {
+     "currency name": "AdEx"
+  },
+  "AE": {
+     "currency name": "Aeternity"
+  },
+  "AEON": {
+     "currency name": "Aeon"
+  },
+  "AGI": {
+     "currency name": "SingularityNET"
+  },
+  "AGRS": {
+     "currency name": "IDNI-Agoras"
+  },
+  "AI": {
+     "currency name": "POLY-AI"
+  },
+  "AID": {
+     "currency name": "AidCoin"
+  },
+  "AION": {
+     "currency name": "Aion"
+  },
+  "AIR": {
+     "currency name": "AirToken"
+  },
+  "AKY": {
+     "currency name": "Akuya-Coin"
+  },
+  "ALIS": {
+     "currency name": "ALIS"
+  },
+  "AMBER": {
+     "currency name": "AmberCoin"
+  },
+  "AMP": {
+     "currency name": "Synereo"
+  },
+  "ANC": {
+     "currency name": "Anoncoin"
+  },
+  "ANT": {
+     "currency name": "Aragon"
+  },
+  "APPC": {
+     "currency name": "AppCoins"
+  },
+  "APX": {
+     "currency name": "APX-Ventures"
+  },
+  "ARDR": {
+     "currency name": "Ardor"
+  },
+  "ARK": {
+     "currency name": "Ark"
+  },
+  "ARN": {
+     "currency name": "Aeron"
+  },
+  "AST": {
+     "currency name": "AirSwap"
+  },
+  "ATB": {
+     "currency name": "ATBCoin"
+  },
+  "ATM": {
+     "currency name": "ATMChain"
+  },
+  "ATS": {
+     "currency name": "Authorship"
+  },
+  "AUR": {
+     "currency name": "Auroracoin"
+  },
+  "AVT": {
+     "currency name": "Aventus"
+  },
+  "B3": {
+     "currency name": "B3Coin"
+  },
+  "BAT": {
+     "currency name": "Basic-Attention-Token"
+  },
+  "BAY": {
+     "currency name": "BitBay"
+  },
+  "BBR": {
+     "currency name": "Boolberry"
+  },
+  "BCAP": {
+     "currency name": "BCAP"
+  },
+  "BCC": {
+     "currency name": "BitConnect"
+  },
+  "BCD": {
+     "currency name": "Bitcoin-Diamond"
+  },
+  "BCH": {
+     "currency name": "Bitcoin-Cash"
+  },
+  "BCN": {
+     "currency name": "Bytecoin"
+  },
+  "BCPT": {
+     "currency name": "BlockMason-Credit-Protocol-Token"
+  },
+  "BCX": {
+     "currency name": "BitcoinX"
+  },
+  "BCY": {
+     "currency name": "BitCrystals"
+  },
+  "BDL": {
+     "currency name": "Bitdeal"
+  },
+  "BEE": {
+     "currency name": "Bee-Token"
+  },
+  "BELA": {
+     "currency name": "BelaCoin"
+  },
+  "BET": {
+     "currency name": "DAO-Casino"
+  },
+  "BFT": {
+     "currency name": "BF-Token"
+  },
+  "BIS": {
+     "currency name": "Bismuth"
+  },
+  "BITB": {
+     "currency name": "BitBean"
+  },
+  "BITBTC": {
+     "currency name": "BitBTC"
+  },
+  "BITCNY": {
+     "currency name": "BitCNY"
+  },
+  "BITEUR": {
+     "currency name": "BitEUR"
+  },
+  "BITGOLD": {
+     "currency name": "BitGOLD"
+  },
+  "BITSILVER": {
+     "currency name": "BitSILVER"
+  },
+  "BITUSD": {
+     "currency name": "BitUSD"
+  },
+  "BIX": {
+     "currency name": "Bibox-Token"
+  },
+  "BLITZ": {
+     "currency name": "Blitzcash"
+  },
+  "BLK": {
+     "currency name": "Blackcoin"
+  },
+  "BLN": {
+     "currency name": "Bolenum"
+  },
+  "BLOCK": {
+     "currency name": "Blocknet"
+  },
+  "BLZ": {
+     "currency name": "Bluzelle"
+  },
+  "BMC": {
+     "currency name": "Blackmoon-Crypto"
+  },
+  "BNB": {
+     "currency name": "Binance-Coin"
+  },
+  "BNT": {
+     "currency name": "Bancor-Network-Token"
+  },
+  "BNTY": {
+     "currency name": "Bounty0x"
+  },
+  "BOST": {
+     "currency name": "BoostCoin"
+  },
+  "BOT": {
+     "currency name": "Bodhi"
+  },
+  "BQ": {
+     "currency name": "bitqy"
+  },
+  "BRD": {
+     "currency name": "Bread"
+  },
+  "BRK": {
+     "currency name": "Breakout-Coin"
+  },
+  "BRX": {
+     "currency name": "Breakout-Stake"
+  },
+  "BTA": {
+     "currency name": "Bata"
+  },
+  "BTC": {
+     "currency name": "Bitcoin"
+  },
+  "BTCD": {
+     "currency name": "BitcoinDark"
+  },
+  "BTCP": {
+     "currency name": "Bitcoin-Private"
+  },
+  "BTG": {
+     "currency name": "Bitcoin-Gold"
+  },
+  "BTM": {
+     "currency name": "Bitmark"
+  },
+  "BTS": {
+     "currency name": "BitShares"
+  },
+  "BTSR": {
+     "currency name": "BTSR"
+  },
+  "BTX": {
+     "currency name": "Bitcore"
+  },
+  "BURST": {
+     "currency name": "Burstcoin"
+  },
+  "BUZZ": {
+     "currency name": "BuzzCoin"
+  },
+  "BYC": {
+     "currency name": "Bytecent"
+  },
+  "BYTOM": {
+     "currency name": "Bytom"
+  },
+  "C20": {
+     "currency name": "Crypto20"
+  },
+  "CANN": {
+     "currency name": "CannabisCoin"
+  },
+  "CAT": {
+     "currency name": "BlockCAT"
+  },
+  "CCRB": {
+     "currency name": "CryptoCarbon"
+  },
+  "CDT": {
+     "currency name": "Blox"
+  },
+  "CFI": {
+     "currency name": "Cofound-it"
+  },
+  "CHAT": {
+     "currency name": "ChatCoin"
+  },
+  "CHIPS": {
+     "currency name": "Chips"
+  },
+  "CLAM": {
+     "currency name": "Clams"
+  },
+  "CLOAK": {
+     "currency name": "CloakCoin"
+  },
+  "CMP": {
+     "currency name": "Compcoin"
+  },
+  "CMT": {
+     "currency name": "CyberMiles"
+  },
+  "CND": {
+     "currency name": "Cindicator"
+  },
+  "CNX": {
+     "currency name": "Cryptonex"
+  },
+  "COFI": {
+     "currency name": "CoinFi"
+  },
+  "COSS": {
+     "currency name": "COSS"
+  },
+  "COVAL": {
+     "currency name": "Circuits-Of-Value"
+  },
+  "CRBIT": {
+     "currency name": "CreditBIT"
+  },
+  "CREA": {
+     "currency name": "CreativeCoin"
+  },
+  "CREDO": {
+     "currency name": "Credo"
+  },
+  "CRW": {
+     "currency name": "Crown"
+  },
+  "CSNO": {
+     "currency name": "BitDice"
+  },
+  "CTR": {
+     "currency name": "Centra"
+  },
+  "CTXC": {
+     "currency name": "Cortex"
+  },
+  "CURE": {
+     "currency name": "CureCoin"
+  },
+  "CVC": {
+     "currency name": "Civic"
+  },
+  "DAI": {
+     "currency name": "Dai"
+  },
+  "DAR": {
+     "currency name": "Darcrus"
+  },
+  "DASH": {
+     "currency name": "Dash"
+  },
+  "DATA": {
+     "currency name": "DATAcoin"
+  },
+  "DAY": {
+     "currency name": "Chronologic"
+  },
+  "DBC": {
+     "currency name": "DeepBrain-Chain"
+  },
+  "DBIX": {
+     "currency name": "DubaiCoin"
+  },
+  "DCN": {
+     "currency name": "Dentacoin"
+  },
+  "DCR": {
+     "currency name": "Decred"
+  },
+  "DCT": {
+     "currency name": "DECENT"
+  },
+  "DDF": {
+     "currency name": "Digital-Developers-Fund"
+  },
+  "DENT": {
+     "currency name": "Dent"
+  },
+  "DFS": {
+     "currency name": "DFSCoin"
+  },
+  "DGB": {
+     "currency name": "DigiByte"
+  },
+  "DGC": {
+     "currency name": "Digitalcoin"
+  },
+  "DGD": {
+     "currency name": "DigixDAO"
+  },
+  "DICE": {
+     "currency name": "Etheroll"
+  },
+  "DLT": {
+     "currency name": "Agrello-Delta"
+  },
+  "DMD": {
+     "currency name": "Diamond"
+  },
+  "DMT": {
+     "currency name": "DMarket"
+  },
+  "DNT": {
+     "currency name": "district0x"
+  },
+  "DOGE": {
+     "currency name": "DogeCoin"
+  },
+  "DOPE": {
+     "currency name": "DopeCoin"
+  },
+  "DRGN": {
+     "currency name": "Dragonchain"
+  },
+  "DTA": {
+     "currency name": "Data"
+  },
+  "DTB": {
+     "currency name": "Databits"
+  },
+  "DYN": {
+     "currency name": "Dynamic"
+  },
+  "EAC": {
+     "currency name": "EarthCoin"
+  },
+  "EBST": {
+     "currency name": "eBoost"
+  },
+  "EBTC": {
+     "currency name": "eBTC"
+  },
+  "ECC": {
+     "currency name": "ECC"
+  },
+  "ECN": {
+     "currency name": "E-coin"
+  },
+  "EDG": {
+     "currency name": "Edgeless"
+  },
+  "EDO": {
+     "currency name": "Eidoo"
+  },
+  "EFL": {
+     "currency name": "Electronic-Gulden"
+  },
+  "EGC": {
+     "currency name": "EverGreenCoin"
+  },
+  "EKT": {
+     "currency name": "EDUCare"
+  },
+  "ELA": {
+     "currency name": "Elastos"
+  },
+  "ELEC": {
+     "currency name": "Electrify.Asia"
+  },
+  "ELF": {
+     "currency name": "aelf"
+  },
+  "ELIX": {
+     "currency name": "Elixir"
+  },
+  "EMB": {
+     "currency name": "Embercoin"
+  },
+  "EMC": {
+     "currency name": "Emercoin"
+  },
+  "EMC2": {
+     "currency name": "Einsteinium"
+  },
+  "ENG": {
+     "currency name": "Enigma"
+  },
+  "ENJ": {
+     "currency name": "Enjin-Coin"
+  },
+  "ENRG": {
+     "currency name": "EnergyCoin"
+  },
+  "EOS": {
+     "currency name": "EOS"
+  },
+  "EOT": {
+     "currency name": "EOT-Token"
+  },
+  "EQT": {
+     "currency name": "EquiTrader"
+  },
+  "ERC": {
+     "currency name": "EuropeCoin"
+  },
+  "ETC": {
+     "currency name": "Ethereum-Classic"
+  },
+  "ETH": {
+     "currency name": "Ethereum"
+  },
+  "ETHD": {
+     "currency name": "Ethereum-Dark"
+  },
+  "ETHOS": {
+     "currency name": "Ethos"
+  },
+  "ETN": {
+     "currency name": "Electroneum"
+  },
+  "ETP": {
+     "currency name": "Metaverse-Entropy"
+  },
+  "ETT": {
+     "currency name": "EncryptoTel"
+  },
+  "EVE": {
+     "currency name": "Devery"
+  },
+  "EVX": {
+     "currency name": "Everex"
+  },
+  "EXCL": {
+     "currency name": "ExclusiveCoin"
+  },
+  "EXP": {
+     "currency name": "Expanse"
+  },
+  "FCT": {
+     "currency name": "Factom"
+  },
+  "FLDC": {
+     "currency name": "FoldingCoin"
+  },
+  "FLO": {
+     "currency name": "FlorinCoin"
+  },
+  "FLT": {
+     "currency name": "FlutterCoin"
+  },
+  "FRST": {
+     "currency name": "FirstCoin"
+  },
+  "FTC": {
+     "currency name": "Feathercoin"
+  },
+  "FUEL": {
+     "currency name": "Etherparty"
+  },
+  "FUN": {
+     "currency name": "FunFair"
+  },
+  "GAM": {
+     "currency name": "Gambit"
+  },
+  "GAME": {
+     "currency name": "GameCredits"
+  },
+  "GAS": {
+     "currency name": "Gas"
+  },
+  "GBG": {
+     "currency name": "Golos Gold"
+  },
+  "GBX": {
+     "currency name": "GoByte"
+  },
+  "GBYTE": {
+     "currency name": "Byteball"
+  },
+  "GCR": {
+     "currency name": "GCRCoin"
+  },
+  "GEO": {
+     "currency name": "GeoCoin"
+  },
+  "GLD": {
+     "currency name": "GoldCoin"
+  },
+  "GNO": {
+     "currency name": "Gnosis-Token"
+  },
+  "GNT": {
+     "currency name": "Golem-Tokens"
+  },
+  "GOLOS": {
+     "currency name": "Golos"
+  },
+  "GRC": {
+     "currency name": "Gridcoin"
+  },
+  "GRS": {
+     "currency name": "Groestlcoin"
+  },
+  "GRWI": {
+     "currency name": "Growers-International"
+  },
+  "GTC": {
+     "currency name": "Game"
+  },
+  "GTO": {
+     "currency name": "Gifto"
+  },
+  "GUP": {
+     "currency name": "Guppy"
+  },
+  "GVT": {
+     "currency name": "Genesis-Vision"
+  },
+  "GXS": {
+     "currency name": "GXShares"
+  },
+  "HBN": {
+     "currency name": "HoboNickels"
+  },
+  "HEAT": {
+     "currency name": "HEAT"
+  },
+  "HMQ": {
+     "currency name": "Humaniq"
+  },
+  "HPB": {
+     "currency name": "High-Performance-Blockchain"
+  },
+  "HSR": {
+     "currency name": "Hshare"
+  },
+  "HUSH": {
+     "currency name": "Hush"
+  },
+  "HVN": {
+     "currency name": "Hive"
+  },
+  "HXX": {
+     "currency name": "HexxCoin"
+  },
+  "ICN": {
+     "currency name": "ICONOMI"
+  },
+  "ICX": {
+     "currency name": "ICON"
+  },
+  "IFC": {
+     "currency name": "Infinitecoin"
+  },
+  "IFT": {
+     "currency name": "investFeed"
+  },
+  "IGNIS": {
+     "currency name": "Ignis"
+  },
+  "INCNT": {
+     "currency name": "Incent"
+  },
+  "IND": {
+     "currency name": "Indorse-Token"
+  },
+  "INF": {
+     "currency name": "InfChain"
+  },
+  "INK": {
+     "currency name": "Ink"
+  },
+  "INS": {
+     "currency name": "INS-Ecosystem"
+  },
+  "INSTAR": {
+     "currency name": "Insights-Network"
+  },
+  "INT": {
+     "currency name": "Internet-Node-Token"
+  },
+  "INXT": {
+     "currency name": "Internxt"
+  },
+  "IOC": {
+     "currency name": "IOCoin"
+  },
+  "ION": {
+     "currency name": "ION"
+  },
+  "IOP": {
+     "currency name": "Internet-of-People"
+  },
+  "IOST": {
+     "currency name": "IOStoken"
+  },
+  "IOTA": {
+     "currency name": "IOTA"
+  },
+  "IOTX": {
+     "currency name": "IoTeX"
+  },
+  "IQT": {
+     "currency name": "Iquant-Chain"
+  },
+  "ITC": {
+     "currency name": "IoT-Chain"
+  },
+  "IXC": {
+     "currency name": "iXcoin"
+  },
+  "IXT": {
+     "currency name": "InsureX"
+  },
+  "J8T": {
+     "currency name": "JET8"
+  },
+  "JNT": {
+     "currency name": "Jibrel-Network"
+  },
+  "KCS": {
+     "currency name": "KuCoin"
+  },
+  "KICK": {
+     "currency name": "KickCoin"
+  },
+  "KIN": {
+     "currency name": "KIN"
+  },
+  "KMD": {
+     "currency name": "Komodo"
+  },
+  "KNC": {
+     "currency name": "Kyber-Network"
+  },
+  "KORE": {
+     "currency name": "KoreCoin"
+  },
+  "LBC": {
+     "currency name": "LBRY-Credits"
+  },
+  "LCC": {
+     "currency name": "Litecoin-Cash"
+  },
+  "LEND": {
+     "currency name": "EthLend"
+  },
+  "LEV": {
+     "currency name": "Leverj"
+  },
+  "LGD": {
+     "currency name": "Legends-Room"
+  },
+  "LINDA": {
+     "currency name": "Linda"
+  },
+  "LINK": {
+     "currency name": "ChainLink"
+  },
+  "LKK": {
+     "currency name": "Lykke"
+  },
+  "LMC": {
+     "currency name": "LoMoCoin"
+  },
+  "LOCI": {
+     "currency name": "LOCIcoin"
+  },
+  "LOOM": {
+     "currency name": "Loom-Token"
+  },
+  "LRC": {
+     "currency name": "Loopring"
+  },
+  "LSK": {
+     "currency name": "Lisk"
+  },
+  "LTC": {
+     "currency name": "Litecoin"
+  },
+  "LUN": {
+     "currency name": "Lunyr"
+  },
+  "MAID": {
+     "currency name": "MaidSafeCoin"
+  },
+  "MANA": {
+     "currency name": "Decentraland"
+  },
+  "MAX": {
+     "currency name": "Maxcoin"
+  },
+  "MBRS": {
+     "currency name": "Embers"
+  },
+  "MCAP": {
+     "currency name": "MCAP"
+  },
+  "MCO": {
+     "currency name": "Monaco"
+  },
+  "MDA": {
+     "currency name": "Moeda-Loyalty-Points"
+  },
+  "MEC": {
+     "currency name": "Megacoin"
+  },
+  "MED": {
+     "currency name": "MediBlock"
+  },
+  "MEME": {
+     "currency name": "Memetic"
+  },
+  "MER": {
+     "currency name": "Mercury"
+  },
+  "MGC": {
+     "currency name": "MergeCoin"
+  },
+  "MGO": {
+     "currency name": "MobileGo"
+  },
+  "MINEX": {
+     "currency name": "Minex"
+  },
+  "MINT": {
+     "currency name": "Mintcoin"
+  },
+  "MITH": {
+     "currency name": "Mithril"
+  },
+  "MKR": {
+     "currency name": "Maker"
+  },
+  "MLN": {
+     "currency name": "Melon"
+  },
+  "MNE": {
+     "currency name": "Minereum"
+  },
+  "MNX": {
+     "currency name": "MinexCoin"
+  },
+  "MOD": {
+     "currency name": "Modum"
+  },
+  "MONA": {
+     "currency name": "MonaCoin"
+  },
+  "MRT": {
+     "currency name": "Miners-Reward-Token"
+  },
+  "MSP": {
+     "currency name": "Mothership"
+  },
+  "MTH": {
+     "currency name": "Monetha"
+  },
+  "MTN": {
+     "currency name": "MedToken"
+  },
+  "MUE": {
+     "currency name": "MonetaryUnit"
+  },
+  "MUSIC": {
+     "currency name": "Musicoin"
+  },
+  "MYB": {
+     "currency name": "MyBit-Token"
+  },
+  "MYST": {
+     "currency name": "Mysterium"
+  },
+  "MZC": {
+     "currency name": "Mazacoin"
+  },
+  "NAMO": {
+     "currency name": "Namocoin"
+  },
+  "NANO": {
+     "currency name": "Nano"
+  },
+  "NAS": {
+     "currency name": "Nebulas-Token"
+  },
+  "NAV": {
+     "currency name": "Nav-Coin"
+  },
+  "NBT": {
+     "currency name": "NuBits"
+  },
+  "NCASH": {
+     "currency name": "Nucleus-Vision"
+  },
+  "NDC": {
+     "currency name": "NeverDie-Coin"
+  },
+  "NEBL": {
+     "currency name": "Neblio"
+  },
+  "NEO": {
+     "currency name": "NEO"
+  },
+  "NEOS": {
+     "currency name": "NeosCoin"
+  },
+  "NET": {
+     "currency name": "Nimiq"
+  },
+  "NLC2": {
+     "currency name": "NoLimitCoin"
+  },
+  "NLG": {
+     "currency name": "Gulden"
+  },
+  "NMC": {
+     "currency name": "Namecoin"
+  },
+  "NMR": {
+     "currency name": "Numeraire"
+  },
+  "NOBL": {
+     "currency name": "NobleCoin"
+  },
+  "NOTE": {
+     "currency name": "DNotes"
+  },
+  "NPXS": {
+     "currency name": "Pundi-X-Token"
+  },
+  "NSR": {
+     "currency name": "NuShares"
+  },
+  "NTO": {
+     "currency name": "Fujinto"
+  },
+  "NULS": {
+     "currency name": "Nuls"
+  },
+  "NVC": {
+     "currency name": "Novacoin"
+  },
+  "NXC": {
+     "currency name": "Nexium"
+  },
+  "NXS": {
+     "currency name": "Nexus"
+  },
+  "NXT": {
+     "currency name": "Nxt"
+  },
+  "OAX": {
+     "currency name": "openANX"
+  },
+  "OBITS": {
+     "currency name": "Obits"
+  },
+  "OCL": {
+     "currency name": "Oceanlab"
+  },
+  "OCN": {
+     "currency name": "Odyssey"
+  },
+  "ODEM": {
+     "currency name": "ODEM"
+  },
+  "ODN": {
+     "currency name": "Obsidian"
+  },
+  "OF": {
+     "currency name": "OFCOIN"
+  },
+  "OK": {
+     "currency name": "OKCash"
+  },
+  "OMG": {
+     "currency name": "OmiseGo"
+  },
+  "OMNI": {
+     "currency name": "Omni"
+  },
+  "ONION": {
+     "currency name": "DeepOnion"
+  },
+  "ONT": {
+     "currency name": "Ontology"
+  },
+  "OPT": {
+     "currency name": "Opus"
+  },
+  "OST": {
+     "currency name": "Simple-Token"
+  },
+  "PART": {
+     "currency name": "Particl"
+  },
+  "PASC": {
+     "currency name": "PascalCoin"
+  },
+  "PAY": {
+     "currency name": "TenX"
+  },
+  "PBL": {
+     "currency name": "Pebbles"
+  },
+  "PBT": {
+     "currency name": "Primalbase-Token"
+  },
+  "PFR": {
+     "currency name": "Payfair"
+  },
+  "PING": {
+     "currency name": "CryptoPing"
+  },
+  "PINK": {
+     "currency name": "Pinkcoin"
+  },
+  "PIVX": {
+     "currency name": "PIVX"
+  },
+  "PIX": {
+     "currency name": "Lampix"
+  },
+  "PLBT": {
+     "currency name": "Polybius"
+  },
+  "PLR": {
+     "currency name": "Pillar"
+  },
+  "PLU": {
+     "currency name": "Pluton"
+  },
+  "POA": {
+     "currency name": "POA-Network"
+  },
+  "POE": {
+     "currency name": "Poet"
+  },
+  "POLY": {
+     "currency name": "Polymath"
+  },
+  "POSW": {
+     "currency name": "PoSW-Coin"
+  },
+  "POT": {
+     "currency name": "PotCoin"
+  },
+  "POWR": {
+     "currency name": "Power-Ledger"
+  },
+  "PPC": {
+     "currency name": "Peercoin"
+  },
+  "PPT": {
+     "currency name": "Populous"
+  },
+  "PPY": {
+     "currency name": "Peerplays"
+  },
+  "PRG": {
+     "currency name": "Paragon-Coin"
+  },
+  "PRL": {
+     "currency name": "Oyster-Pearl"
+  },
+  "PRO": {
+     "currency name": "Propy"
+  },
+  "PST": {
+     "currency name": "Primas"
+  },
+  "PTC": {
+     "currency name": "Pesetacoin"
+  },
+  "PTOY": {
+     "currency name": "Patientory"
+  },
+  "PURA": {
+     "currency name": "Pura"
+  },
+  "QASH": {
+     "currency name": "QASH"
+  },
+  "QAU": {
+     "currency name": "Quantum"
+  },
+  "QLC": {
+     "currency name": "Qlink"
+  },
+  "QRK": {
+     "currency name": "Quark"
+  },
+  "QRL": {
+     "currency name": "Quantum-Resistant-Ledger"
+  },
+  "QSP": {
+     "currency name": "Quantstamp"
+  },
+  "QTL": {
+     "currency name": "Quatloo"
+  },
+  "QTUM": {
+     "currency name": "Qtum"
+  },
+  "QWARK": {
+     "currency name": "Qwark"
+  },
+  "R": {
+     "currency name": "Revain"
+  },
+  "RADS": {
+     "currency name": "Radium"
+  },
+  "RAIN": {
+     "currency name": "Condensate"
+  },
+  "RBIES": {
+     "currency name": "Rubies"
+  },
+  "RBX": {
+     "currency name": "Ripto-Bux"
+  },
+  "RBY": {
+     "currency name": "RubyCoin"
+  },
+  "RCN": {
+     "currency name": "Ripio-Credit-Network"
+  },
+  "RDD": {
+     "currency name": "ReddCoin"
+  },
+  "RDN": {
+     "currency name": "Raiden-Network-Token"
+  },
+  "REC": {
+     "currency name": "Regalcoin"
+  },
+  "RED": {
+     "currency name": "Redcoin"
+  },
+  "REP": {
+     "currency name": "Augur"
+  },
+  "REQ": {
+     "currency name": "Request-Network"
+  },
+  "RHOC": {
+     "currency name": "RChain"
+  },
+  "RIC": {
+     "currency name": "Riecoin"
+  },
+  "RISE": {
+     "currency name": "Rise"
+  },
+  "RLC": {
+     "currency name": "RLC-Token"
+  },
+  "RLT": {
+     "currency name": "RouletteToken"
+  },
+  "RPX": {
+     "currency name": "Red-Pulse"
+  },
+  "RRT": {
+     "currency name": "Recovery-Right-Tokens"
+  },
+  "RUFF": {
+     "currency name": "Ruff"
+  },
+  "RUP": {
+     "currency name": "Rupee"
+  },
+  "RVT": {
+     "currency name": "Rivetz"
+  },
+  "SAFEX": {
+     "currency name": "SafeExchangeCoin"
+  },
+  "SALT": {
+     "currency name": "Salt"
+  },
+  "SAN": {
+     "currency name": "Santiment-Network-Token"
+  },
+  "SBD": {
+     "currency name": "Steem-Dollars"
+  },
+  "SBTC": {
+     "currency name": "Super-Bitcoin"
+  },
+  "SC": {
+     "currency name": "Siacoin"
+  },
+  "SEELE": {
+     "currency name": "Seele"
+  },
+  "SEQ": {
+     "currency name": "Sequence"
+  },
+  "SHIFT": {
+     "currency name": "SHIFT"
+  },
+  "SIB": {
+     "currency name": "SIBCoin"
+  },
+  "SIGMA": {
+     "currency name": "SIGMAcoin"
+  },
+  "SIGT": {
+     "currency name": "Signatum"
+  },
+  "SJCX": {
+     "currency name": "Storjcoin-X"
+  },
+  "SKIN": {
+     "currency name": "SkinCoin"
+  },
+  "SKY": {
+     "currency name": "Skycoin"
+  },
+  "SLR": {
+     "currency name": "SolarCoin"
+  },
+  "SLS": {
+     "currency name": "SaluS"
+  },
+  "SMART": {
+     "currency name": "SmartCash"
+  },
+  "SMT": {
+     "currency name": "SmartMesh"
+  },
+  "SNC": {
+     "currency name": "SunContract"
+  },
+  "SNGLS": {
+     "currency name": "SingularDTV"
+  },
+  "SNM": {
+     "currency name": "SONM"
+  },
+  "SNRG": {
+     "currency name": "Synergy"
+  },
+  "SNT": {
+     "currency name": "Status-Network-Token"
+  },
+  "SOC": {
+     "currency name": "All-Sports"
+  },
+  "SOUL": {
+     "currency name": "Phantasma"
+  },
+  "SPANK": {
+     "currency name": "SpankChain"
+  },
+  "SPC": {
+     "currency name": "SpaceChain"
+  },
+  "SPHR": {
+     "currency name": "Sphere"
+  },
+  "SPR": {
+     "currency name": "SpreadCoin"
+  },
+  "SRN": {
+     "currency name": "Sirin-Labs-Token"
+  },
+  "START": {
+     "currency name": "Startcoin"
+  },
+  "STEEM": {
+     "currency name": "Steem"
+  },
+  "STK": {
+     "currency name": "STK-Token"
+  },
+  "STORJ": {
+     "currency name": "Storj"
+  },
+  "STORM": {
+     "currency name": "Storm"
+  },
+  "STQ": {
+     "currency name": "Storiqa"
+  },
+  "STRAT": {
+     "currency name": "Stratis"
+  },
+  "STX": {
+     "currency name": "Stox"
+  },
+  "SUB": {
+     "currency name": "Substratum"
+  },
+  "SWFTC": {
+     "currency name": "SwftCoin"
+  },
+  "SWIFT": {
+     "currency name": "Bitswift"
+  },
+  "SWT": {
+     "currency name": "Swarm-City"
+  },
+  "SYNX": {
+     "currency name": "Syndicate"
+  },
+  "SYS": {
+     "currency name": "SysCoin"
+  },
+  "TAAS": {
+     "currency name": "Taas"
+  },
+  "TAU": {
+     "currency name": "Lamden"
+  },
+  "TCC": {
+     "currency name": "The-ChampCoin"
+  },
+  "TFL": {
+     "currency name": "True-Flip"
+  },
+  "THC": {
+     "currency name": "HempCoin"
+  },
+  "THETA": {
+     "currency name": "Theta-Token"
+  },
+  "TIME": {
+     "currency name": "Time"
+  },
+  "TIX": {
+     "currency name": "Blocktix"
+  },
+  "TKN": {
+     "currency name": "TokenCard"
+  },
+  "TKR": {
+     "currency name": "Trackr"
+  },
+  "TKS": {
+     "currency name": "Tokes"
+  },
+  "TNB": {
+     "currency name": "Time-New-Bank"
+  },
+  "TNT": {
+     "currency name": "Tierion"
+  },
+  "TOA": {
+     "currency name": "ToaCoin"
+  },
+  "TRAC": {
+     "currency name": "OriginTrail"
+  },
+  "TRC": {
+     "currency name": "Terracoin"
+  },
+  "TRCT": {
+     "currency name": "Tracto"
+  },
+  "TRIG": {
+     "currency name": "Triggers"
+  },
+  "TRST": {
+     "currency name": "Trustcoin"
+  },
+  "TRUE": {
+     "currency name": "TrueChain"
+  },
+  "TRUST": {
+     "currency name": "TrustPlus"
+  },
+  "TRX": {
+     "currency name": "Tronix"
+  },
+  "TUSD": {
+     "currency name": "TrueUSD"
+  },
+  "TX": {
+     "currency name": "TransferCoin"
+  },
+  "UBQ": {
+     "currency name": "Ubiq"
+  },
+  "UKG": {
+     "currency name": "UnikoinGold"
+  },
+  "ULA": {
+     "currency name": "Ulatech"
+  },
+  "UNB": {
+     "currency name": "UnbreakableCoin"
+  },
+  "UNITY": {
+     "currency name": "SuperNET"
+  },
+  "UNO": {
+     "currency name": "Unobtanium"
+  },
+  "UNY": {
+     "currency name": "Unity-Ingot"
+  },
+  "UP": {
+     "currency name": "UpToken"
+  },
+  "URO": {
+     "currency name": "Uro"
+  },
+  "USDT": {
+     "currency name": "Tether"
+  },
+  "UTK": {
+     "currency name": "UTrust"
+  },
+  "VEE": {
+     "currency name": "BLOCKv"
+  },
+  "VEN": {
+     "currency name": "VeChain"
+  },
+  "VERI": {
+     "currency name": "Veritaseum"
+  },
+  "VIA": {
+     "currency name": "Viacoin"
+  },
+  "VIB": {
+     "currency name": "Viberate"
+  },
+  "VIBE": {
+     "currency name": "Vibe"
+  },
+  "VIVO": {
+     "currency name": "VIVO"
+  },
+  "VOISE": {
+     "currency name": "Voise"
+  },
+  "VOX": {
+     "currency name": "Voxels"
+  },
+  "VPN": {
+     "currency name": "VPNCoin"
+  },
+  "VRC": {
+     "currency name": "Vericoin"
+  },
+  "VRM": {
+     "currency name": "Verium"
+  },
+  "VRS": {
+     "currency name": "Veros"
+  },
+  "VSL": {
+     "currency name": "vSlice"
+  },
+  "VTC": {
+     "currency name": "Vertcoin"
+  },
+  "VTR": {
+     "currency name": "vTorrent"
+  },
+  "WABI": {
+     "currency name": "WaBi"
+  },
+  "WAN": {
+     "currency name": "Wanchain"
+  },
+  "WAVES": {
+     "currency name": "Waves"
+  },
+  "WAX": {
+     "currency name": "Wax-Token"
+  },
+  "WCT": {
+     "currency name": "Waves-Community"
+  },
+  "WDC": {
+     "currency name": "WorldCoin"
+  },
+  "WGO": {
+     "currency name": "WavesGo"
+  },
+  "WGR": {
+     "currency name": "Wagerr"
+  },
+  "WINGS": {
+     "currency name": "Wings"
+  },
+  "WPR": {
+     "currency name": "WePower"
+  },
+  "WTC": {
+     "currency name": "Walton"
+  },
+  "WTT": {
+     "currency name": "Giga-Watt-Token"
+  },
+  "XAS": {
+     "currency name": "Asch"
+  },
+  "XAUR": {
+     "currency name": "Xaurum"
+  },
+  "XBC": {
+     "currency name": "Bitcoin-Plus"
+  },
+  "XBY": {
+     "currency name": "XtraBYtes"
+  },
+  "XCN": {
+     "currency name": "Cryptonite"
+  },
+  "XCP": {
+     "currency name": "Counterparty"
+  },
+  "XDN": {
+     "currency name": "DigitalNote"
+  },
+  "XEL": {
+     "currency name": "Elastic"
+  },
+  "XEM": {
+     "currency name": "NEM"
+  },
+  "XID": {
+     "currency name": "Sphere-Identity"
+  },
+  "XLM": {
+     "currency name": "Stellar"
+  },
+  "XMG": {
+     "currency name": "Magi"
+  },
+  "XMR": {
+     "currency name": "Monero"
+  },
+  "XMT": {
+     "currency name": "Metal"
+  },
+  "XMY": {
+     "currency name": "Myriadcoin"
+  },
+  "XPM": {
+     "currency name": "Primecoin"
+  },
+  "XRL": {
+     "currency name": "Rialto"
+  },
+  "XRP": {
+     "currency name": "Ripple"
+  },
+  "XSPEC": {
+     "currency name": "Spectrecoin"
+  },
+  "XST": {
+     "currency name": "Stealthcoin"
+  },
+  "XTZ": {
+     "currency name": "Tezos"
+  },
+  "XUC": {
+     "currency name": "Exchange-Union"
+  },
+  "XVC": {
+     "currency name": "Vcash"
+  },
+  "XVG": {
+     "currency name": "Verge"
+  },
+  "XWC": {
+     "currency name": "WhiteCoin"
+  },
+  "XZC": {
+     "currency name": "ZCoin"
+  },
+  "XZR": {
+     "currency name": "ZrCoin"
+  },
+  "YEE": {
+     "currency name": "Yee"
+  },
+  "YOYOW": {
+     "currency name": "YOYOW"
+  },
+  "ZCC": {
+     "currency name": "ZcCoin"
+  },
+  "ZCL": {
+     "currency name": "Zclassic"
+  },
+  "ZCO": {
+     "currency name": "Zebi"
+  },
+  "ZEC": {
+     "currency name": "Zcash"
+  },
+  "ZEN": {
+     "currency name": "ZenCash"
+  },
+  "ZET": {
+     "currency name": "Zetacoin"
+  },
+  "ZIL": {
+     "currency name": "Zilliqa"
+  },
+  "ZLA": {
+     "currency name": "Zilla"
+  },
+  "ZRX": {
+     "currency name": "0x"
+  }
+}
