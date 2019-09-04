@@ -1,5 +1,6 @@
 const defaultState = {
-  coinList: []
+  coinList: [],
+  isLoading: false
 }
 
 const cryptoList = (state = defaultState, action) => {
@@ -7,7 +8,14 @@ const cryptoList = (state = defaultState, action) => {
     case 'ADD_COINLIST':
       return {
         ...state,
-        coinList: action.coinList
+        coinList: action.data.coinList,
+        isLoading: action.data.isLoading
+      }
+    case 'UPDATE_COINLIST':
+      return {
+        ...state,
+        coinList: action.data.coinList,
+        isLoading: action.data.isLoading
       }
     default:
       return state
