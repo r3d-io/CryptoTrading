@@ -8,8 +8,6 @@ class SearchCrypto extends React.Component {
   constructor(props) {
     super(props);
     this.state = { name: '' };
-    this.handleForm = this.handleForm.bind(this);
-    this.handleInput = this.handleInput.bind(this);
   }
 
   handleInput = (event, error) => {
@@ -22,16 +20,16 @@ class SearchCrypto extends React.Component {
   async handleForm(event) {
     event.preventDefault();
     let filteredList = await filterList(this.state.name)
-    this.props.dispatch(addCoinList(filteredList))
+    this.props.dispatch(addCoinList(filteredList, true))
     // console.log(this.props.coinList)
   }
 
   render() {
     return (
-      <Form onSubmit={this.handleForm}>
+      <Form onSubmit={this.handleForm.bind(this)}>
         <Form.Field>
           <label>Currency</label>
-          <input onChange={this.handleInput}
+          <input onChange={this.handleInput.bind(this)}
             placeholder='Currency'
           />
         </Form.Field>
